@@ -1,0 +1,71 @@
+
+
+** TO-DO LIST APPLICATION **
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+l
+Please enter the filename: todo.txt
+The list has been loaded from file successfully.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+a
+Please enter the task description: take a shower
+Please enter the task priority (0-999): 96
+The task 'take a shower' has been added to your to-do list.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+a
+Please enter the task description: visit grandma
+Please enter the task priority (0-999): 58
+The task 'visit grandma' has been added to your to-do list.
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
+p
+take a nap
+
+study heap-based priority queue
+
+do assignment 7
+
+visit grandma
+
+take a shower
+
+review trees for Midterm 2
+
+Press:
+'l' to load to-do list from a file
+'s' to save to-do list to a file
+'a' to add a new task
+'g' to get the first task
+'r' to remove the first task
+'p' to print the list
+'e' to exit the program
